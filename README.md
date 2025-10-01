@@ -1,2 +1,2 @@
-# github.io
+# FlashMiner
 FlashMiner landing site
